@@ -3,9 +3,27 @@
 	"private": true,
 	"version": "1.0.0",
 	"type": "module",
+	"description": "Make professional API calls on the client with React, Typescript, Axios, Zod, and React Queries.",
+	"keywords": [
+		"react",
+		"professional-services",
+		"typescript",
+		"api-client",
+		"api-call",
+		"zod",
+		"react-query",
+		"api-foundation",
+		"zod-validation",
+		"api-mastery"
+	],
 	"author": {
 		"name": "Mostafa Rahmati",
 		"url": "https://github.com/MR-Mostafa"
+	},
+	"homepage": "https://github.com/MR-Mostafa/api-call-mastery",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MR-Mostafa/api-call-mastery.git"
 	},
 	"scripts": {
 		"dev": "vite",
