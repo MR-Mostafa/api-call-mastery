@@ -1,0 +1,17 @@
+# Ignore all files:
+*.html
+*.mdx
+*.md
+**/dist
+**/coverage
+**/.vscode
+**/.nyc_output
+**/.vs
+**/.next
+**/.output
+**/.cashe
+pnpm-lock.yaml
+yarn-lock.lock
+package-lock.json
+node_modules/*
+**/node_modules/*

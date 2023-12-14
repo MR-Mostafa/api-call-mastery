@@ -1,0 +1,33 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxSingleQuote": true,
+  "printWidth": 140,
+  "proseWrap": "always",
+  "quoteProps": "consistent",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": true,
+  "trailingComma": "all",
+  "importOrder": [
+    ".css$",
+    ".scss$",
+    "^(^react$|^@react|^react|^recoil|redux|vite|next)",
+    "^(^antd|^rsuite|^@emotion|^emotion|theme-ui|^semantic-ui|^@rebass|^@chakra-ui|bootstrap|tailwind|bulma|mui|^@blueprintjs|reactstrap|^@mantine)",
+    "<THIRD_PARTY_MODULES>",
+    "^@(.*)$",
+    "^~(.*)$",
+    "^[./]"
+  ],
+  "importOrderGroupNamespaceSpecifiers": true,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "singleAttributePerLine": true,
+  "plugins": ["@trivago/prettier-plugin-sort-imports"]
+}

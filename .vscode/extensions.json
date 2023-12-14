@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"EditorConfig.EditorConfig",
+		"kamikillerto.vscode-colorize",
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"PKief.material-icon-theme",
+		"wayou.vscode-todo-highlight",
+		"bradlc.vscode-tailwindcss",
+		"yoavbls.pretty-ts-errors",
+		"wix.vscode-import-cost",
+		"oderwat.indent-rainbow",
+		"mintlify.document",
+		"psulek-solo.typedoc-live-preview"
+	]
+}

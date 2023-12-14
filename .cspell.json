@@ -1,0 +1,25 @@
+{
+	"version": "0.2",
+	"language": "en,en-GB",
+	"locale": "en-GB",
+	"ignorePaths": [
+		"node_modules/**",
+		"**/node_modules/**",
+		"package.json",
+		"**/package.json",
+		"dist",
+		"**/dist",
+		".vscode",
+		"yarn.lock",
+		"**/bundle-analysis.html",
+		".cache/",
+		"**/.cache",
+		".gitignore"
+	],
+	"dictionaries": ["javascript", "typescript", "node", "html", "css", "npm"],
+	"allowCompoundWords": true,
+	"caseSensitive": false,
+	"words": [],
+	"ignoreWords": ["Roboto", "Segoe", "tabler"],
+	"ignoreRegExpList": ["/[\\u0621-\\u064A]+/"]
+}
